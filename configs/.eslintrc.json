@@ -122,7 +122,7 @@
     "header/header": [
       2,
       "line",
-      " Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.\n See LICENSE.txt for license information."
+      " Copyright (c) Thientran2910."
     ],
     "id-blacklist": 0,
     "indent": [
@@ -163,7 +163,6 @@
         "allowBlockEnd": true
       }
     ],
-    "thientv/no-dispatch-getstate": 2,
     "max-lines": [
       1,
       {
